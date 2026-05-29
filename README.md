@@ -1,5 +1,6 @@
 1조
-\[Contribution]
+[Contribution]
+"We are contribution."
 
 ===
 
